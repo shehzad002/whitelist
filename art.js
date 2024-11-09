@@ -1,6 +1,6 @@
 [
   {
     "id": 0,
-    "addr": "ThBx4TbNhNLUkZMeq2qzYVkNfB37Lm19JTNhhxmkHe1"
+    "addr": "UuDM8swTfreZY8696FA17f416fkRSAZzerVQgaWtd"
   }
 ]
